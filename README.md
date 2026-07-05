@@ -1,4 +1,3 @@
-# HDI-Predictor
 # HDI Predictor
 
 ## Project Overview
