@@ -197,7 +197,7 @@ The application can be deployed on **Render** for public access.
 
 **Live Application**
 
-*Add your Render deployment link here.*
+https://hdi-prediction.onrender.com/
 
 ---
 
